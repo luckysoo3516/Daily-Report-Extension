@@ -1,0 +1,18 @@
+{
+  "manifest_version" : 2,
+  "name": "Daily Report on Whale",
+  "version": "1.0.0",
+  "description": "Daily Report & Feedback on Whale SideBar",
+  "icons": {
+    "16" : "images/list_16.png",
+    "64": "images/list_64.png"
+  },
+
+  "sidebar_action": {
+    "default_page": "sidebar.html",
+    "default_icon": {
+      "16": "images/list_16.png"
+},
+  "default_title": "데일리 리포트"
+  }
+}
